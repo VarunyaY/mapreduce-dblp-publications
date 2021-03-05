@@ -1,0 +1,7 @@
+Hi Varunya,
+
+Your grade for HW2 is 11%.
+
+1. +1% for deploying and running your jar on an Amazon EMR cluster.
+
+Abhijeet
